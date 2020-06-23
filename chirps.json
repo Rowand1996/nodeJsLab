@@ -1,5 +1,27 @@
-{
-    "name": "Rowan",
-    "comment": "this is my chirp!",
-    "chirpId": "1"
-}
+[
+    {
+        "name":"Rowan",
+        "comment":"this is my chirp!",
+        "chirpId":"1"
+    },
+    {
+        "name":"Bob",
+        "comment":"this is bobs chirp!",
+        "chirpId":"2"
+    },
+    {
+        "name":"Jhon",
+        "comment":"this is jhons chirp!",
+        "chirpId":"3"
+    },
+    {
+        "name":"David",
+        "comment":"this is davids chirp!",
+        "chirpId":"4"
+    },
+    {
+        "name":"Roger",
+        "comment":"this is rogers chirp!",
+        "chirpId":"5"
+    }
+]
